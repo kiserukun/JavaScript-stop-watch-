@@ -1,0 +1,10 @@
+.container{
+  text-align: center;
+  margin:30px auto;
+  margin: 30px auto;
+  padding: 50px;
+  background-color: aqua;
+  color:black;
+  border-radius: 3px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, .5);
+}
